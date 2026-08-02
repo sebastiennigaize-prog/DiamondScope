@@ -1,3 +1,4 @@
+Test connexion VS Code GitHub
 # 💎 DiamondScope
 
 ### 🔍 Application d'analyse et de prédiction de diamants basée sur le Machine Learning
