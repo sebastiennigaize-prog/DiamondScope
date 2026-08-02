@@ -14,8 +14,7 @@ L'objectif est d'aider à l'évaluation d'un diamant grâce à des modèles de M
 
 ## 📸 Aperçu de l'application
 
-![Capture DiamondScope](screenshot.png)
-
+![Capture DiamondScope](image%20diamonscope.png)
 ---
 
 ## 🚀 Fonctionnalités
