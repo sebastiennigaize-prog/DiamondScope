@@ -1,5 +1,24 @@
 # 💎 DiamondScope
 
+# 💎 DiamondScope
+
+### 🔍 Application d'analyse et de prédiction de diamants basée sur le Machine Learning
+
+DiamondScope est une application interactive développée avec **Streamlit** permettant d'estimer la valeur d'un diamant et d'analyser ses caractéristiques grâce à des modèles de Machine Learning.
+
+<p align="center">
+  <a href="https://diamondscope-n5ifux47qsjbudaj7fzufx.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>Tester l'application en ligne</b> : 
+  <a href="https://diamondscope-n5ifux47qsjbudaj7fzufx.streamlit.app/">
+    DiamondScope Live Demo
+  </a>
+</p>
+
 ## 📌 Présentation du projet
 
 DiamondScope est un prototype d'application d'analyse joaillière développé avec **Streamlit**.
