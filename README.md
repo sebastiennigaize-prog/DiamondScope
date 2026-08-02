@@ -98,19 +98,5 @@ Installer les dépendances :
 ```bash
 uv sync
 
----
 
 
-## 📂 Données
-
-Le modèle a été entraîné sur un jeu de données de diamants contenant des caractéristiques physiques :
-
-- carat ;
-- coupe ;
-- couleur ;
-- clarté ;
-- profondeur ;
-- dimensions du diamant ;
-- prix.
-
-Ces variables ont été utilisées pour entraîner les modèles de Machine Learning.
