@@ -1,5 +1,7 @@
 # 💎 DiamondScope
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diamondscope-n5ifux47qsjbudaj7fzufx.streamlit.app/)
+
 ## 📌 Présentation du projet
 
 DiamondScope est un prototype d'application d'analyse joaillière développé avec **Streamlit**.
