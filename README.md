@@ -11,7 +11,11 @@ L'objectif est d'aider à l'évaluation d'un diamant grâce à des modèles de M
 - 📊 analyser les performances des modèles utilisés.
 
 ---
+## 🚀 Tester l'application
 
+👉 Accéder à DiamondScope :
+[Ouvrir l'application Streamlit](TON_LIEN_STREAMLIT)
+---
 ## 📸 Aperçu de l'application
 
 ![Capture DiamondScope](image%20diamonscope.png)
