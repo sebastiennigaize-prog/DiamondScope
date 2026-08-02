@@ -99,6 +99,8 @@ Installer les dépendances :
 uv sync
 
 ---
+
+
 ## 📂 Données
 
 Le modèle a été entraîné sur un jeu de données de diamants contenant des caractéristiques physiques :
